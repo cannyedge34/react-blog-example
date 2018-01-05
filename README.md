@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-**Full Burger app with react 16.**
+**Fetching web server data with React and axios example.**
 
 #### Git
 
